@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RestDocker/src/main/java7&apos; to &apos;java&apos;" description="Rename resource &apos;java7&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java7" name="java" stamp="1493683513789" updateReferences="true"/>
+</session>

@@ -1,0 +1,5 @@
+package com.holamundodocker.ws.rest.vo;
+
+public class VOInputHolaMundo {
+
+}

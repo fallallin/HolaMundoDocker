@@ -1,0 +1,10 @@
+127.0.0.1 - - [01/May/2017:19:30:56 -0500] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1 - - [01/May/2017:19:30:59 -0500] "GET /RestDocker/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [01/May/2017:19:31:43 -0500] "GET /RestDocker/ServiceHolaMundoDocker/registrarPedido HTTP/1.1" 404 1059
+127.0.0.1 - - [01/May/2017:19:37:47 -0500] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1 - - [01/May/2017:19:37:48 -0500] "GET /RestDocker/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [01/May/2017:19:37:52 -0500] "GET /RestDocker/services/ServiceHolaMundoDocker/consumirHolaMundo HTTP/1.1" 405 -
+127.0.0.1 - - [01/May/2017:19:39:03 -0500] "POST /RestDocker/services/ServiceHolaMundoDocker/consumirHolaMundo HTTP/1.1" 200 106
+127.0.0.1 - - [01/May/2017:19:39:39 -0500] "POST /RestDocker/services/ServiceHolaMundoDocker/consumirHolaMundo HTTP/1.1" 200 105
+127.0.0.1 - - [01/May/2017:19:39:50 -0500] "POST /RestDocker/services/ServiceHolaMundoDocker/consumirHolaMundo HTTP/1.1" 200 106
+127.0.0.1 - - [01/May/2017:22:33:44 -0500] "POST /RestDocker/services/ServiceHolaMundoDocker/consumirHolaMundo HTTP/1.1" 200 106
